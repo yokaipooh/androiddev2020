@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">USTH Weather</string>
+    <string name="action_setting"> SETTING </string>
+
+    <!-- TODO: REMOVE OR CHANGE THIS PLACEHOLDER TEXT -->
+    <string name="thursday"> THURSDAY </string>
+    <string name="weather_icon">Weather Icon</string>
 </resources>
