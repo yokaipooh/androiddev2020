@@ -12,7 +12,7 @@ public class WeatherActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.i("My_Tag", "This is on start");
+        Log.i("My_Tag", " On start");
 
         fragment forecastFragment = new fragment();
         getSupportFragmentManager().beginTransaction().add(R.id.forecastFragment, forecastFragment).commit();
@@ -21,27 +21,27 @@ public class WeatherActivity extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
-        Log.i("My_Tag", "This is on start");
+        Log.i("My_Tag", "On start");
     }
     @Override
     protected void onResume() {
         super.onResume();
-        Log.i("My_Tag", "This is on resume");
+        Log.i("My_Tag", "On resume");
     }
     @Override
     protected void onPause() {
         super.onPause();
-        Log.i("My_Tag", "This is on Pause");
+        Log.i("My_Tag", "On Pause");
     }
     @Override
     protected void onStop() {
         super.onStop();
-        Log.i("My_Tag", "This is on Stop");
+        Log.i("My_Tag", "On Stop");
     }
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        Log.i("My_Tag", "This is on destroy");
+        Log.i("My_Tag", "On destroy");
     }
 
 }
