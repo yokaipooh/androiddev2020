@@ -41,7 +41,7 @@
                 <ImageView
                     android:layout_width="48dp"
                     android:layout_height="47dp"
-                    android:src="@drawable/sunny" />
+                    android:src="@drawable/images" />
 
                 <LinearLayout
                     android:layout_width="0dp"
@@ -76,7 +76,7 @@
                 <ImageView
                     android:layout_width="48dp"
                     android:layout_height="47dp"
-                    android:src="@drawable/cloudy" />
+                    android:src="@drawable/images" />
 
                 <LinearLayout
                     android:layout_width="0dp"
@@ -111,7 +111,7 @@
                 <ImageView
                     android:layout_width="48dp"
                     android:layout_height="47dp"
-                    android:src="@drawable/foggy" />
+                    android:src="@drawable/images" />
 
                 <LinearLayout
                     android:layout_width="0dp"
@@ -146,7 +146,7 @@
                 <ImageView
                     android:layout_width="48dp"
                     android:layout_height="47dp"
-                    android:src="@drawable/halfrain" />
+                    android:src="@drawable/images" />
 
                 <LinearLayout
                     android:layout_width="0dp"
@@ -181,7 +181,7 @@
                 <ImageView
                     android:layout_width="48dp"
                     android:layout_height="47dp"
-                    android:src="@drawable/partlycloudy" />
+                    android:src="@drawable/images" />
 
                 <LinearLayout
                     android:layout_width="0dp"
@@ -216,7 +216,7 @@
                 <ImageView
                     android:layout_width="48dp"
                     android:layout_height="47dp"
-                    android:src="@drawable/rainy" />
+                    android:src="@drawable/images" />
 
                 <LinearLayout
                     android:layout_width="0dp"
@@ -250,7 +250,7 @@
                 <ImageView
                     android:layout_width="48dp"
                     android:layout_height="47dp"
-                    android:src="@drawable/shower" />
+                    android:src="@drawable/images" />
 
                 <LinearLayout
                     android:layout_width="0dp"
@@ -284,7 +284,7 @@
                 <ImageView
                     android:layout_width="48dp"
                     android:layout_height="47dp"
-                    android:src="@drawable/thunderstorm" />
+                    android:src="@drawable/images" />
 
                 <LinearLayout
                     android:layout_width="0dp"
